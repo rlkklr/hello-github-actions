@@ -7,6 +7,10 @@ inputs:
     description: "Who to greet"
     required: true
     default: "World"
+  MY_LAST_NAME:
+    description: "Who to greet"
+    required: true
+    default: "Worldles"
 
 runs:
   using: "docker"
